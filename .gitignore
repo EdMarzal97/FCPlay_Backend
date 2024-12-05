@@ -1,0 +1,23 @@
+# Ignore the SQLite database file
+fcplay.db
+fcplay.db-journal
+
+# Ignore Entity Framework migration files (optional)
+Migrations/
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore build artifacts and dependencies
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.db
+*.pdb
+# Ignore environment variables
+.env
