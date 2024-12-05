@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FCPlay")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+383c5dbdb59990446a2dbfb700a291b2c83718bf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b332b6e6c6eaa65ce227280699ba69d9a520bc1a")]
 [assembly: System.Reflection.AssemblyProductAttribute("FCPlay")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FCPlay")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
